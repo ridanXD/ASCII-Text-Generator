@@ -3,8 +3,6 @@ import pyfiglet
 import os
 
 def main():
-    print_banner()
-
     PINK = "\033[95m"
     RESET = "\033[0m"
     
